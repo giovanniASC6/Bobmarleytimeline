@@ -1,0 +1,17 @@
+.main-text div{
+font-size: 30px;
+line-height: 100px;
+color: white;
+border: 10px solid rgba(255,255,255, 0.3);
+text-align: left;
+padding: 9px
+
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+body {
+    background-image: url(https://www.picclickimg.com/d/l400/pict/253296317985_/SUPREME-Bob-Marley-Limited-window-decal-sticker-car.jpg);
+}
